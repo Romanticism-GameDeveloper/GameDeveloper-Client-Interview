@@ -1,8 +1,10 @@
-## vector와 관련한 이야기들
+# vector와 관련한 이야기들
+
+vector는 C++에서 가장 많이 사용되는 STL이라고 봐도 무방합니다. 때문에 vector의 메모리 관리, list의 차이 등은 알아가는게 좋을 것입니다. 실제로 작성자도 기술면접에서 vector 관련 질문을 받았거든요.
 
 
 
-### vector와 list의 차이
+## vector와 list의 차이
 
 - vector
   - 메모리 내에서 원소들이 연속적인 위치를 가짐
@@ -16,7 +18,7 @@
 
 
 
-### vector의 size, capacity (feat. reserve, resize)
+## vector의 size, capacity (feat. reserve, resize)
 
 - size : 실제 원소들이 있는 공간
 - capacity : 벡터가 차지하고 있는 공간
@@ -27,7 +29,7 @@ reserve는 여기서 capacity를 변경하는 함수이고 resize는 size를 변
 
 
 
-### vector의 기본적인 동작
+## vector의 기본적인 동작
 
 vector의 경우에는 연속적인 메모리 공간을 미리 할당을 하게 됩니다. 만일 원소 삽입 시 메모리 공간이 부족하다면 **새 메모리 공간을 할당한 뒤 그곳으로 기존 원소들을 복사**한 다음 새 원소를 삽입하게 됩니다.
 
@@ -35,7 +37,7 @@ vector의 경우에는 연속적인 메모리 공간을 미리 할당을 하게 
 
 
 
-### vector에서 값의 삭제
+## vector에서 값의 삭제
 
 vector에서는 erase-remove 구문을 이용해서 제거를 하게 됩니다.
 
@@ -52,7 +54,7 @@ remove 구문들이 실제로 삭제하는게 아닌 위치 변경만을 해주�
 
 
 
-### vector<bool> 
+## vector<bool> 
 
 vector<bool>의 경우에는 실제 bool을 담는것이 아닌 `프록시 패턴`을 통해서 **마치 bool을 담고 있는 것처럼 동작**하게 됩니다.
 

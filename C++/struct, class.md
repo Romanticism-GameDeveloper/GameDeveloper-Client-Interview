@@ -1,4 +1,4 @@
-### struct, class의 차이
+## struct, class의 차이
 
 - 기본 접근지정자가 class는 `private`, struct는 `public` 입니다.
 
