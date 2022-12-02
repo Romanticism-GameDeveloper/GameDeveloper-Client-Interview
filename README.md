@@ -43,4 +43,16 @@
 - [상등성과 동등성의 차이](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/%EC%83%81%EB%93%B1%EC%84%B1%EA%B3%BC%20%EB%8F%99%EB%93%B1%EC%84%B1.md)
 - [vector와 관련한 이야기](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/vector%EC%99%80%20%EA%B4%80%EB%A0%A8%ED%95%9C%20%EC%9D%B4%EC%95%BC%EA%B8%B0%EB%93%A4.md)
 - [C++에서 map과 unordered_map의 차이](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/map%20vs%20unordered_map.md)
+- [template의 장단점](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/template.md)
+
+
+
+### OS
+
+- [프로세스와 스레드](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/OS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
+- [메모리 단편화 - Memory Fragmentation](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/OS/%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EB%8B%A8%ED%8E%B8%ED%99%94%20-%20Memory%20Fragmentation.md)
+- [뮤텍스(Mutex)와 세마포어(Semaphore)](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/OS/%EB%AE%A4%ED%85%8D%EC%8A%A4(Mutex)%EC%99%80%20%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4(Semaphore).md)
+- [CPU 스케쥴러 알고리즘 종류](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/OS/CPU%20%EC%8A%A4%EC%BC%80%EC%A5%B4%EB%9F%AC%EC%9D%98%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%A2%85%EB%A5%98.md)
+- [가상 메모리](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/OS/%EA%B0%80%EC%83%81%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20-%20Virtual%20Memory.md)
+- [데드락 - DeadLock](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/OS/DeadLock%20(%EB%8D%B0%EB%93%9C%EB%9D%BD%2C%20%EA%B5%90%EC%B0%A9%20%EC%83%81%ED%83%9C%2C%20%EC%9D%B4%ED%95%98%20%EB%8D%B0%EB%93%9C%EB%9D%BD).md)
 
