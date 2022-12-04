@@ -53,6 +53,7 @@
 - [상등성과 동등성의 차이](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/%EC%83%81%EB%93%B1%EC%84%B1%EA%B3%BC%20%EB%8F%99%EB%93%B1%EC%84%B1.md)
 - [vector와 관련한 이야기](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/vector%EC%99%80%20%EA%B4%80%EB%A0%A8%ED%95%9C%20%EC%9D%B4%EC%95%BC%EA%B8%B0%EB%93%A4.md)
 - [C++에서 map과 unordered_map의 차이](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/map%20vs%20unordered_map.md)
+- [<algorithm> 헤더의 sort와 list.sort](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/algorithm%20sort%EB%8A%94%20%EC%96%B4%EB%96%A4%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%B8%EA%B0%80.md)
 - [C++ 캐스팅](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/cast.md)
 - [template의 장단점](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/template.md)
 - [typedef vs using](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/typedef%20vs%20using(%EB%B3%84%EC%B9%AD%20%EC%84%A0%EC%96%B8).md)
