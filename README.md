@@ -23,6 +23,15 @@
 
 > ⚒ 혹여나 잘못된 부분을 발견하신 분들은 [Issue](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/issues)를 활용해 제보해주시면 됩니다!
 
+<details>
+<summary>현재 받고있는 제보 List</summary>
+  
+### C++
+- [C 에서는 Name Mangling이 일어나는가?](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/Name%20Mangling%20(Decoration).md)
+  
+---
+</details>
+
 다만 대부분의 회사들은 **면접의 내용을 공개하지 않는걸 원칙**으로 합니다. 때문에 이런 규정을 깨고 기여는 하지 말았으면 합니다. 이곳은 **면접 대비 예상 질문을 뽑는 곳**임을 명심해주세요.
 
 
