@@ -25,7 +25,7 @@
 
 <details>
 <summary>현재 받고있는 제보 List</summary>
-  
+
 ### C++
 - [C 에서는 Name Mangling이 일어나는가?](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/Name%20Mangling%20(Decoration).md)
   
@@ -45,6 +45,7 @@
 ## C++
 
 - [struct와 class의 차이](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/struct%2C%20class.md)
+- [포인터와 배열의 차이](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/%ED%8F%AC%EC%9D%B8%ED%84%B0%EC%99%80%20%EB%B0%B0%EC%97%B4%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
 - [malloc/free vs new/delete](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/mallocfree%20vs%20newdelete.md)
 - [const와 관련한 이야기](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/const.md)
 - [static과 관련한 이야기](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/static.md)
@@ -52,7 +53,10 @@
 - [상등성과 동등성의 차이](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/%EC%83%81%EB%93%B1%EC%84%B1%EA%B3%BC%20%EB%8F%99%EB%93%B1%EC%84%B1.md)
 - [vector와 관련한 이야기](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/vector%EC%99%80%20%EA%B4%80%EB%A0%A8%ED%95%9C%20%EC%9D%B4%EC%95%BC%EA%B8%B0%EB%93%A4.md)
 - [C++에서 map과 unordered_map의 차이](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/map%20vs%20unordered_map.md)
+- [C++ 캐스팅](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/cast.md)
 - [template의 장단점](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/template.md)
+- [typedef vs using](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/typedef%20vs%20using(%EB%B3%84%EC%B9%AD%20%EC%84%A0%EC%96%B8).md)
+- [L-value, R-value](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/L-value%2C%20R-value.md)
 - [Move Semantics - 이동 의미론](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/Move%20Semantics%20-%20%EC%9D%B4%EB%8F%99%20%EC%9D%98%EB%AF%B8%EB%A1%A0.md)
 - [스마트 포인터](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/%EC%8A%A4%EB%A7%88%ED%8A%B8%20%ED%8F%AC%EC%9D%B8%ED%84%B0.md)
 - [Name Mangling](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/Name%20Mangling%20(Decoration).md)
