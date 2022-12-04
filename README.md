@@ -1,7 +1,7 @@
 # For Game Developer
 
 
-### 개요
+## 개요
 
 이 리포지토리를 만든 사람이 개요를 참 좋아합니다. 게임 개발자가 되기로 결심 한 후 깨달은건 **이 분야에서 지식 공유가 많지 않다**라는 것입니다. 타 개발 분야에 비해서 정보도 적고 로드맵을 구하기가 힘들어 항상 방향을 잡는게 힘들었습니다. 
 
@@ -9,7 +9,7 @@
 
 ---
 
-### License
+## License
 
 해당 리포지토리는 [BEERWARE](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/License) 라이센스를 따릅니다. 
 
@@ -17,7 +17,7 @@
 
 ---
 
-### 기여 or 제보
+## 기여 or 제보
 
 > 👍 이 리포지토리에 기여하고 싶으신 분들은 Pull Request를 통해 기여해주시면 됩니다. 다른건 없고 커밋 앞에 `docs : `를 붙여주시면 감사하겠습니다.
 
@@ -29,11 +29,11 @@
 
 추가적으로 본인의 **취업 후기, 회고, 추천하는 로드맵**등의 글이 잘 쓰였다면 ISSUE에 작성해주세요. 해당 리포지토리 관리자가 자체 검토 후 아래 <u>추천 글</u> 리스트에 올려보도록 하겠습니다.
 
+
+
 ---
 
-
-
-### C++
+## C++
 
 - [struct와 class의 차이](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/struct%2C%20class.md)
 - [malloc/free vs new/delete](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/mallocfree%20vs%20newdelete.md)
@@ -45,10 +45,12 @@
 - [C++에서 map과 unordered_map의 차이](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/map%20vs%20unordered_map.md)
 - [template의 장단점](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/template.md)
 - [Move Semantics - 이동 의미론](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/Move%20Semantics%20-%20%EC%9D%B4%EB%8F%99%20%EC%9D%98%EB%AF%B8%EB%A1%A0.md)
+- [스마트 포인터](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/%EC%8A%A4%EB%A7%88%ED%8A%B8%20%ED%8F%AC%EC%9D%B8%ED%84%B0.md)
+- [Name Mangling](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/Name%20Mangling%20(Decoration).md)
 
 
 
-### OS
+## OS
 
 - [프로세스와 스레드](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/OS/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
 - [메모리 단편화 - Memory Fragmentation](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/OS/%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EB%8B%A8%ED%8E%B8%ED%99%94%20-%20Memory%20Fragmentation.md)
