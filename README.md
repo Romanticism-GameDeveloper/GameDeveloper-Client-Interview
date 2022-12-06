@@ -42,6 +42,18 @@
 
 ---
 
+## 인성 면접 or 개발이라 하기에는 가벼운 질문들
+
+>  [면접 질문들 Link](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/Personality%20Interview/%EA%B2%8C%EC%9E%84%20%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%20%EC%9D%B8%EC%84%B1%2C%EA%B2%BD%ED%97%98%20%EC%A7%88%EB%AC%B8.MD)
+
+
+
+해당 항목은 게임 회사에서 질문이 나올 수 있는 여러가지 가벼운 개발 상황 질문, 인성 질문들을 모아둔 곳입니다. 질문들에 대한 공식적인 답이 없을 뿐더러 회사마다 같은 답변에 대해서 다른 포지션을 취할 수 있으니 ***'아 이런 질문들이 있구나'*** 정도로 생각하시고 본인만의 답을 준비해 가는게 좋습니다.
+
+다만 지나치게 본인의 단점을 강조하지는 말고 어느 정도 단점을 소개하지만 그를 보완하기 위한 과정들을 설명하면서 본인이 자신있는 키워드로 유도하는게 좋을 것 같습니다.
+
+
+
 ## C++
 
 - [struct와 class의 차이](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/struct%2C%20class.md)
@@ -61,6 +73,18 @@
 - [Move Semantics - 이동 의미론](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/Move%20Semantics%20-%20%EC%9D%B4%EB%8F%99%20%EC%9D%98%EB%AF%B8%EB%A1%A0.md)
 - [스마트 포인터](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/%EC%8A%A4%EB%A7%88%ED%8A%B8%20%ED%8F%AC%EC%9D%B8%ED%84%B0.md)
 - [Name Mangling](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/Name%20Mangling%20(Decoration).md)
+
+
+
+## C# & Unity
+
+클라이언트 개발자에게 Unity + C# 조합으로 질문이 많이 들어오게 되니 이 둘을 같은 목차에 넣게 되었습니다.
+
+- [유니티 생명주기](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/Unity_C%23/Unity%EC%9D%98%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0.md)
+- [박싱, 언박싱](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/Unity_C%23/%EB%B0%95%EC%8B%B1%2C%20%EC%96%B8%EB%B0%95%EC%8B%B1.md)
+
+- [C#의 String](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/Unity_C%23/C%23%EC%9D%98%20string.md)
+- [GC - Garbage Collector](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/Unity_C%23/Unity%20%26%20C%23%EC%9D%98%20GC.md)
 
 
 
