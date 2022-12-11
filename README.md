@@ -17,7 +17,7 @@
 ## Contributors
 
 ### 🙇‍♂️ Created By
-<a href="https://github.com/JangHanjun"><img src="https://avatars.githubusercontent.com/u/68003176?v=4" width="100" height="100"/></a>
+<a href="https://github.com/Husk-321"><img src="https://avatars.githubusercontent.com/u/68003176?v=4" width="100" height="100"/></a>
 
 <!---
 <a href="https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/graphs/contributors">
