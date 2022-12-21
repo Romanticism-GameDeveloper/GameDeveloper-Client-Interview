@@ -5,14 +5,16 @@
 
 > 이 리포지토리를 만든 사람이 개요를 참 좋아합니다. 
 
+[그냥 주인장의 글](https://husk321.tistory.com/)
+
 게임 개발자가 되기로 결심 한 후 깨달은건 **이 분야에서 지식 공유가 많지 않다**라는 것입니다. 타 개발 분야에 비해서 정보도 적고 로드맵을 구하기가 힘들어 항상 방향을 잡는게 힘들었습니다. 
 
 다른 분들은, 어떤 경우에라도 이 리포지토리를 본 분들은 조금이라도 도움을 받으셨으면 하는 마음에 이 Org를 만들게 되었습니다. 혹시나 도움을 잘 받았다면 Star 남겨주시거나 뒤이어 게임 업계에 뛰어드는 개발자를 위해 기여해주신다면 감사하겠습니다. 또한 잘못된 오개념들을 잡아주신다면 또 한번 감사드리겠습니다.🙇‍♂️🙇‍♂️
 
-[그냥 주인장의 글](https://husk321.tistory.com/)
 
+추가적으로 공부하다 지쳤을 때 볼만한 글을은 아래 있습니다. 탈락 후기, 합격 후기 등등이 올라올 예정이니 심심할 때 보시면 좋습니다. (본인 글을 올리고 싶으신 분들은 아래 "기여"를 참고해 주세요)
 
-
+[심심풀이 글 목록](#심심풀이)
 
 ## Contributors
 
@@ -53,7 +55,7 @@
 
 
 
-추가적으로 본인의 **취업 후기, 회고, 추천하는 로드맵**등의 글이 잘 쓰였다면 ISSUE에 작성해주세요. 해당 리포지토리 관리자가 자체 검토 후 아래 <u>추천 글</u> 리스트에 올려보도록 하겠습니다.
+추가적으로 본인의 **취업 후기, 회고, 추천하는 로드맵**등의 글이 잘 쓰였다면 ISSUE에 작성해주세요. 해당 리포지토리 관리자가 자체 검토 후 아래 [심심풀이](#심심풀이) 리스트에 올려보도록 하겠습니다.
 
 
 
@@ -61,10 +63,7 @@
 
 >  [면접 질문들 Link](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/Personality%20Interview/%EA%B2%8C%EC%9E%84%20%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8%20%EC%9D%B8%EC%84%B1%2C%EA%B2%BD%ED%97%98%20%EC%A7%88%EB%AC%B8.MD)
 
-
-
 해당 항목은 게임 회사에서 질문이 나올 수 있는 여러가지 가벼운 개발 상황 질문, 인성 질문들을 모아둔 곳입니다. 질문들에 대한 공식적인 답이 없을 뿐더러 회사마다 같은 답변에 대해서 다른 포지션을 취할 수 있으니 **'🤦‍♂️🤦‍♀️*아 이런 질문들이 있구나'*** 정도로 생각하시고 본인만의 답을 준비해 가는게 좋습니다. 면접에서 바로 생각하는 것 대신 미리 얼추 생각하고 들어가는 것이죠.
-
 
 
 ## C++
@@ -120,3 +119,9 @@
 - [스트래터지 패턴](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/DesignPattern/StrategyPattern.md)
 - [프록시 패턴](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/DesignPattern/ProxyPattern.md)
 - [퍼사드 패턴](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/DesignPattern/FacadePattern.md)
+
+---
+
+### 심심풀이
+
+[주인장의 2022 EA Winter Intern 탈락 후기](https://husk321.tistory.com/401)
