@@ -118,3 +118,5 @@
 - [싱글톤 패턴](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/DesignPattern/SingletonPattern.md)
 - [널 오브젝트 패턴](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/DesignPattern/NullObjectPattern.md)
 - [스트래터지 패턴](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/DesignPattern/StrategyPattern.md)
+- [프록시 패턴](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/DesignPattern/ProxyPattern.md)
+- [퍼사드 패턴](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/DesignPattern/FacadePattern.md)
