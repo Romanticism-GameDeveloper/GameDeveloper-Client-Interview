@@ -121,6 +121,7 @@
 - [퍼사드 패턴](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/DesignPattern/FacadePattern.md)
 - [스테이트 패턴](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/DesignPattern/StatePattern.md)
 - [어댑터 패턴](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/DesignPattern/AdapterPattern.md)
+- [옵저버 패턴](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/DesignPattern/ObserverPattern.md)
 
 ---
 
