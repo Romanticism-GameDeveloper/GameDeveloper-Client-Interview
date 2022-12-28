@@ -1,4 +1,4 @@
-## const vs readonly
+# const vs readonly
 
 C++과 다르게 C#에서는 readonly 가 있어 수정이 안되는 읽기 전용 키워드를 제공하고 있습니다. 이 둘의 차이를 간단하게 보겠습니다.
 
@@ -15,7 +15,7 @@ C++과 다르게 C#에서는 readonly 가 있어 수정이 안되는 읽기 전�
   - 어떤 타입과도 사용 가능
 
 
-### const 보다는 readonly가 좋다
+## const 보다는 readonly가 좋다
 
 > 한빛미디어 "Effective C# 3판" 아이템 2의 내용입니다.
 

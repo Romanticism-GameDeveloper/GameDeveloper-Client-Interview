@@ -1,4 +1,4 @@
-## 어댑터 패턴 (Adapter Pattern)
+# 어댑터 패턴 (Adapter Pattern)
 
 > 현실의 플러그 변환기를 떠올리면 쉽습니다.
 

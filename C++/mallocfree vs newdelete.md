@@ -1,4 +1,4 @@
-## malloc/free vs new/delete
+# malloc/free vs new/delete
 
 malloc/free는 함수, new/delete는 연산자인게 가장 큰 차이점입니다.
 

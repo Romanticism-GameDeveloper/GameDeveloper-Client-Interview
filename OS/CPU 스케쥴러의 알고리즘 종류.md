@@ -1,14 +1,14 @@
-## CPU 스케쥴러의 알고리즘 종류
+# CPU 스케쥴러의 알고리즘 종류
 
 
 
-### FCFS - First Come First Served
+## FCFS - First Come First Served
 
 간단하게 먼저온 순으로 진행해 주는 것입니다. Non preemptive라서 현재 진행중인 프로세스를 종료할 수단이 없습니다.
 
 
 
-### SJF - Shortest Job First
+## SJF - Shortest Job First
 
 말 그대로 현재 시점에서 짧은 일을 먼저 처리하는 것입니다. 이 중에서도 Preemptive, Non preemptive가 존재합니다. Non preemptive의 경우에는 현재 실행하는 프로세스를 종료하지 않으며 Preemptive의 경우에는 현재 사용하는 프로세스보다 새 프로세스의 시간이 더 짧으면 교체하게 됩니다.
 
@@ -23,7 +23,7 @@
 
 
 
-### Priority - 우선순위 스케쥴링
+## Priority - 우선순위 스케쥴링
 
 각 프로세스에 우선순위를 부여하고 이 우선순위가 높을수록 먼저 CPU에 할당해 줍니다. 위 SJF의 경우에는 우선순위 스케쥴링의 일종으로 짧은 시간이라 예측된 프로세스에 우선도를 주는 형식입니다.
 
@@ -31,6 +31,6 @@
 
 
 
-### RR - Round Robin
+## RR - Round Robin
 
 일전 시간을 정한 뒤 이 시간이 지나면 **프로세스 완료 여부와 관계 없이 종료하고 다른 프로세스로 교체**하는 것입니다.  만일 시간 단위가 q 라고 하고 N개의 프로세스가 있다고 하면 각 프로세스가 (N-1)q보다 기다리는 경우는 없습니다.

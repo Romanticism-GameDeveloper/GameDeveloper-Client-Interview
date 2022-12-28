@@ -1,4 +1,4 @@
-## C#의 string
+# C#의 string
 
 
 
@@ -8,7 +8,7 @@ C#에서의 string은 immutable(불변) 속성을 가지고 있습니다. string
 
 
 
-### StringBuilder는 어떻게 string 보다 수정에 용이할까?
+## StringBuilder는 어떻게 string 보다 수정에 용이할까?
 
 StringBuilder는 기본적으로 16문자를 담을 수 있는 자리를 잡습니다. 이렇게 할당 된 크기 내에서는 어떠한 수정을 해도 가비지가 생성되지 않습니다.
 

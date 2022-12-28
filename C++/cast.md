@@ -1,4 +1,4 @@
-## C++ cast
+# C++ cast
 
 캐스팅은 일단 명시적 캐스팅, 묵시적 캐스팅으로 나뉘게 됩니다.
 
@@ -17,7 +17,7 @@ int a = (int)f;
 
 
 
-### static_cast
+## static_cast
 
 기존 C스타일의 형변환 대신 사용하게 됩니다. 형변환이 가능한지에 대한 검사는 컴파일 타임에 하게 됩니다.
 
@@ -28,7 +28,7 @@ int a = static_cast<int>(f);
 
 
 
-### const_cast
+## const_cast
 
 이는 const를 제거, 부여하는데 사용이 됩니다. 다만 부여의 경우에는 사용하는 경우가 잘 없게 됩니다.
 
@@ -43,7 +43,7 @@ NonConstFunc(const_cast<Some>(s))
 
 
 
-### reinterpret_cast
+## reinterpret_cast
 
 모든 포인터 유형을 다른 포인터 방식으로 변경할 수 있게 됩니다. 또한 포인터 타입을 정수로 바꾸는데도 가능한 캐스팅입니다.
 
@@ -51,6 +51,6 @@ NonConstFunc(const_cast<Some>(s))
 
 
 
-### dynamic_cast
+## dynamic_cast
 
 클래스의 포인터나 참조에만 사용할 수 있으며 런타임에 캐스팅을 진행하게 됩니다. RTTI(Runtime Type Information)를 위한 캐스팅이라 할 수 있습니다. 다만 클래스간 virtual 함수가 있어야 하며 만일 다형성이 없는 객체들 간 캐스팅에서는 컴파일 에러가 나오게 됩니다,

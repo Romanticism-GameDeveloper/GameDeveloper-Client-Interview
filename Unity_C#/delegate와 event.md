@@ -1,8 +1,8 @@
-## delegate & event
+# delegate & event
 
 > delegate : 대표, 위임하다
 
-### delegate (델리게이트)
+## delegate (델리게이트)
 
 C# 에서 델리게이트는 함수를 타입화 한 것입니다. C++ 에서 함수 포인터와 비슷한 개념이라고 생각하면 됩니다.
 파라미터와 리턴 타입을 통해 정의하게 되며 이후 리턴, 파라미터 타입이 같은 메소드들과 호환되어 이 메소드들에 대한 참조를 가질 수 있게 됩니다.
@@ -23,7 +23,7 @@ public class ExampleClass
 C#에서 이런 델리게이트를 활용해 메소드를 담아두는 역할을 하거나 함수 인자로 넘겨 콜백 패턴을 구현하는 등 다양한 곳에 사용하게 됩니다.
 
 
-### event
+## event
 
 이벤트는 결국 델리게이트와 비슷한 일을 하게 되지만 한가지 큰 차이점이 **이벤트를 호출 할 수 있는건 해당 이벤트를 가진 클래스**만 가능하다는 것입니다.
 
@@ -41,7 +41,7 @@ class ExampleClass
 }
 ```
 
-### Action, Func, Predicate
+## Action, Func, Predicate
 
 이 키워드들은 자주 사용하게 되는 델리게이트를 템플릿화 한 것들입니다.
 
@@ -53,7 +53,7 @@ class ExampleClass
   - 함수 파라미터가 T 이고 반환값이 bool 인 경우
 
 
-### null 조건부 연산자 (?.)
+## null 조건부 연산자 (?.)
 
 > null 체크 연산자 등의 말이 있지만 현재 문서에서는 [MS docs](https://learn.microsoft.com/ko-kr/dotnet/csharp/language-reference/operators/member-access-operators#null-conditional-operators--and-)의 표기를 따랐습니다.
 

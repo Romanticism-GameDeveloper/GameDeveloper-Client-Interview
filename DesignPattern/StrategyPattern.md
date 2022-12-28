@@ -1,4 +1,4 @@
-## 스트래터지(전략) 패턴 (Strategy Pattern)
+# 스트래터지(전략) 패턴 (Strategy Pattern)
 
 `스트래터지 패턴`은 인터페이스를 통해 특정 행동들을 인터페이스로 묶고 이를 교환하면서 사용하는 패턴입니다. 
 
@@ -38,7 +38,7 @@ class Gun : public Weapon
 };
 ```
 
-### UML
+## UML
 
 ![Strategy drawio](https://user-images.githubusercontent.com/68003176/208416998-353692a8-d9dc-4de6-a2bf-b1ded1fe734e.png)
 
@@ -49,5 +49,5 @@ class Gun : public Weapon
 
 
 
-### 스트래터지 패턴은...
+## 스트래터지 패턴은...
 사실 바로 정의를 이야기 하기 보다는 이를 활용한 본인의 프로젝트 예시를 드는게 좋아 보입니다.

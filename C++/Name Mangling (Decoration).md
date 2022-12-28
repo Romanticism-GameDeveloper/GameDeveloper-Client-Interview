@@ -1,4 +1,4 @@
-## Name Mangling (Decoration)
+# Name Mangling (Decoration)
 
 >Mangle : ~을 난도질하다 (파파고)
 
@@ -19,7 +19,7 @@
 
 
 
-### C에서도 이런 Name Mangling는 있는가?
+## C에서도 이런 Name Mangling는 있는가?
 
 일단 C 에서는 함수 오버로딩이 없기에 이런 Name Mangling이 필요 없습니다. 다만 컴파일러에 따라 다르기는 한데 앞에 `_`를 붙이는 등의 작업을 하기는 합니다. 
 
@@ -31,7 +31,7 @@
 
 
 
-### extern "C"
+## extern "C"
 
 해당 명령어는 컴파일 후 이후 내용을 C 처럼 만들어 주기에 C++에서 작성을 한다 해도 C 에서 사용할 수 있게 해주는 명령어 입니다. 
 

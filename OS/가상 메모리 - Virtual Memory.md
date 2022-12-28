@@ -1,4 +1,4 @@
-## 가상 메모리 - Virtual Memory
+# 가상 메모리 - Virtual Memory
 
 가상 메모리 기법은 실제 메모리보다 메모리가 더 많아 보이게 하는 기법입니다. 프로그램의 현재 실행에 필요한 부분만 메모리에 올라가고 나머지는 보조 기억장치(HDD, SSD 등)에 올려두고 사용하는 것입니다.
 
@@ -6,13 +6,13 @@
 
 
 
-### Page Fault
+## Page Fault
 
 가상 메모리 기법을 활용하면 필요한 페이지가 메모리에 없는(물리주소에 없는) page fault 가 발생하게 됩니다. 이 경우에 디스크에서 페이지를 불러오고 필요없는 페이지를 디스크로 보내는 Swap In/Out 작업을 하게 됩니다.
 
 
 
-### Page Replacement
+## Page Replacement
 
 일단 위 Page fault로 인해서 디스크를 오가게 되는데 일단 이런 작업은 시간이 많이 들게 됩니다. 보조 기억장치는 일반적으로 메모리보다 느리기 때문입니다. 
 
@@ -40,7 +40,7 @@
 
 
 
-### TLB (Translation Lookaside Buffer)
+## TLB (Translation Lookaside Buffer)
 
 위 물리 주소에 페이지를 두는 것에 관련한 이야기라면 이건 **주소를 관리하는**이야기 입니다. 
 

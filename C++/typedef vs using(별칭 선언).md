@@ -1,4 +1,4 @@
-## typedef vs using(별칭 선언)
+# typedef vs using(별칭 선언)
 
 
 

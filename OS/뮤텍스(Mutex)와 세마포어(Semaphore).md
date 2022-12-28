@@ -1,4 +1,4 @@
-## 뮤텍스(Mutex)와 세마포어(Semaphore)
+# 뮤텍스(Mutex)와 세마포어(Semaphore)
 
 > Critical Section(임계 구역) : 공유된 자원 부분
 
