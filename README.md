@@ -93,6 +93,7 @@
 클라이언트 개발자에게 Unity + C# 조합으로 질문이 많이 들어오게 되니 이 둘은 같은 목차에 넣게 되었습니다.
 
 - [유니티 생명주기](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/Unity_C%23/Unity%EC%9D%98%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0.md)
+- [Awake vs Start / Update vs FixedUpdate vs LateUpdate](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/Unity_C%23/Awake_Start_Update_FixedUpdate_LateUpdate.md)
 - [박싱, 언박싱](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/Unity_C%23/%EB%B0%95%EC%8B%B1%2C%20%EC%96%B8%EB%B0%95%EC%8B%B1.md)
 - [직렬화 역직렬화](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/Unity_C%23/%EC%A7%81%EB%A0%AC%ED%99%94%20-%20Serialization%20%20%EC%97%AD%EC%A7%81%EB%A0%AC%ED%99%94%20-%20Deserialization.md)
 - [const vs readonly](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/Unity_C%23/const%20readonly.md)
