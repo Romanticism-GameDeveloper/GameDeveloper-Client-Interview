@@ -47,7 +47,10 @@
 
 ### C++
 - [C 에서는 Name Mangling이 일어나는가?](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/C%2B%2B/Name%20Mangling%20(Decoration).md)
-  
+### C#
+
+- [C#과 C++의 속도 관련한 이야기에 대한 제보](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/Unity_C%23/C%23%20vs%20C%2B%2B.md)
+
 ---
 </details>
 
@@ -102,6 +105,7 @@
 - [delegate와 event](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/Unity_C%23/delegate%EC%99%80%20event.md)
 - [this](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/Unity_C%23/this.md)
 - [List, Dictionary 외 등 자료구조의 내부](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/Unity_C%23/List_Dictionary.md)
+- [C#은 C++보다 느릴까](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/Unity_C%23/C%23%20vs%20C%2B%2B.md)
 
 
 
