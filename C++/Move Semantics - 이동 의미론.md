@@ -38,13 +38,12 @@ decltype(auto) move(T&& param)
 }
 ```
 예시코드입니다.
-```c++
-  // push_back(const T&) 가 오버로딩 되어서 문자열의 복사가 발생한다.
-  v.push_back(str);
-  std::cout << "After copy, str is \"" << str << "\"\n";
-
-  // push_back(T&&) 가 오버로딩 되서 문자열의 복사 없이 그대로 전달된다.
-  v.push_back(std::move(str));
+```cpp
+std::vector<std::string> v;
+std::string str = "example";
+v.push_back(std::move(str));  // str 은 이제 껍데기만 남음
+str.back();                   // 정의되지 않은 작업!
+str.clear();                  // 다만 clear 자체는 가능하다.
 ```
 
 때문에 실제로 하는 일은 move 가 아닌 rvalue_cast 입니다.
@@ -59,7 +58,7 @@ std::forward의 경우에는 move와 다르게 오른값일때는 오른값으�
 
 > std::forward는 어떻게 왼값, 오른값을 알 수 있는가?
 
-```c++
+```C++
 template<typename T>
 T&& forward(typename remove_reference<T>::type& param)
 {
