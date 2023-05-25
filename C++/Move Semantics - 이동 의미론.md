@@ -38,7 +38,7 @@ decltype(auto) move(T&& param)
 }
 ```
 예시코드입니다.
-```
+```c++
   // push_back(const T&) 가 오버로딩 되어서 문자열의 복사가 발생한다.
   v.push_back(str);
   std::cout << "After copy, str is \"" << str << "\"\n";
