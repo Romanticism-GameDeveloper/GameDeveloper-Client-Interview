@@ -37,6 +37,15 @@ decltype(auto) move(T&& param)
 	return static_cast<ReturnType>(param);
 }
 ```
+예시코드입니다.
+```
+  // push_back(const T&) 가 오버로딩 되어서 문자열의 복사가 발생한다.
+  v.push_back(str);
+  std::cout << "After copy, str is \"" << str << "\"\n";
+
+  // push_back(T&&) 가 오버로딩 되서 문자열의 복사 없이 그대로 전달된다.
+  v.push_back(std::move(str));
+```
 
 때문에 실제로 하는 일은 move 가 아닌 rvalue_cast 입니다.
 
