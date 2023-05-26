@@ -1,7 +1,7 @@
 # Move Semantics - 이동 의미론
 
 
-C++ 11부터 들어오게 된 중요 개념으로 기술면접 시작으로 나오기도 하는 질문입니다. 이전 C++ 에서는 복사만을 사용했기에 생성이나 대입에 있어서 연산이 느렸습니다. 하지만 C++ 11 후로부터 `&&`연산자를 통한 r-value 참조가 되기 됩니다. 이를 이용해서 기존 객체가 실제로 이동하는게 아닌 객체를 가리키는 포인터의 이동이 있는 것입니다. 타 언어에서의 얕은 복사라고 생각하면 됩니다.
+C++ 11부터 들어오게 된 중요 개념으로 기술면접 시작으로 나오기도 하는 질문입니다. 이전 C++ 에서는 복사만을 사용했기에 생성이나 대입에 있어서 연산이 느렸습니다. 하지만 C++ 11 후로부터 `&&`연산자를 통한 r-value 참조가 되게 됩니다. 이를 이용해서 기존 객체가 실제로 이동하는게 아닌 객체를 가리키는 포인터의 이동이 있는 것입니다. 타 언어에서의 얕은 복사라고 생각하면 됩니다.
 
 이를 사용하기 위해서는 각 객체, 클래스에 이동 생성자, 이동 대입 연산자가 정의되어 있어야 사용이 가능합니다.
 
@@ -37,6 +37,14 @@ decltype(auto) move(T&& param)
 	return static_cast<ReturnType>(param);
 }
 ```
+예시코드입니다.
+```cpp
+std::vector<std::string> v;
+std::string str = "example";
+v.push_back(std::move(str));  // str 은 이제 껍데기만 남음
+str.back();                   // 정의되지 않은 작업!
+str.clear();                  // 다만 clear 자체는 가능하다.
+```
 
 때문에 실제로 하는 일은 move 가 아닌 rvalue_cast 입니다.
 
@@ -50,7 +58,7 @@ std::forward의 경우에는 move와 다르게 오른값일때는 오른값으�
 
 > std::forward는 어떻게 왼값, 오른값을 알 수 있는가?
 
-```c++
+```C++
 template<typename T>
 T&& forward(typename remove_reference<T>::type& param)
 {
