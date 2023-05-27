@@ -109,6 +109,12 @@
 - [가상 메모리](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/OS/%EA%B0%80%EC%83%81%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20-%20Virtual%20Memory.md)
 - [데드락 - DeadLock](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/OS/DeadLock%20(%EB%8D%B0%EB%93%9C%EB%9D%BD%2C%20%EA%B5%90%EC%B0%A9%20%EC%83%81%ED%83%9C%2C%20%EC%9D%B4%ED%95%98%20%EB%8D%B0%EB%93%9C%EB%9D%BD).md)
 
+## DB
+
+- [Key](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/DB/Key.md)
+
+- [정규화](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/DB/%EC%A0%95%EA%B7%9C%ED%98%95.md)
+
 ## 디자인 패턴
 
 - [싱글톤 패턴](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/DesignPattern/SingletonPattern.md)
