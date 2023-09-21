@@ -99,7 +99,7 @@
 - [List, Dictionary 외 등 자료구조의 내부](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/Unity_C%23/List_Dictionary.md)
 - [C#은 C++보다 느릴까](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/Unity_C%23/C%23%20vs%20C%2B%2B.md)
 
-### Unreal
+## Unreal
 
 - [Isvalid](https://github.com/Romanticism-GameDeveloper/GameDeveloper-Client-Interview/blob/main/Unreal/IsValid.md)
 
@@ -137,6 +137,7 @@
 
 ### 심심풀이
 
-[주인장의 2022 EA Winter Intern 탈락 후기](https://husk321.tistory.com/401)
+- [주인장의 2022 EA Winter Intern 탈락 후기](https://husk321.tistory.com/401)
 
-[주인장의 UNSEEN-언리얼 교육 프로그램 지원 후기](https://husk321.tistory.com/416)
+- [주인장의 UNSEEN-언리얼 교육 프로그램 지원 후기](https://husk321.tistory.com/416)
+   - [위 UNSEEN 언리얼 교육 후기](https://husk321.tistory.com/444) 
